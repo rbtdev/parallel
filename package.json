@@ -1,0 +1,17 @@
+{
+  "name": "array",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ascii-progress": "^1.0.5",
+    "async": "^2.1.4",
+    "lodash": "^4.17.3",
+    "progress": "^1.1.8"
+  }
+}
